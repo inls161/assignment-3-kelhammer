@@ -27,5 +27,5 @@ Research Interests
   Ephemera                 Social Media              Television/Film Studies
   ------------------------ ------------------------- -------------------------
   North Carolina History   Twitter Platform          Design
-
+  ------------------------ ------------------------- -------------------------
 
