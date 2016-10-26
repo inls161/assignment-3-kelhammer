@@ -18,15 +18,13 @@ House*. She also enjoys picking up new comics every Wednesday at Chapel
 Hill Comics. Her favorites include *Spider-Gwen*, *Paper Girls*,
 *Mockingbird*, and *Spider-Woman*.
 
-![](profile_3.jpg)
+![](media/image1.jpg)
 
 Research Interests
 
-  
-  GIF Studies|Undergraduate Libraries|Overnight Libraries
+  GIF Studies              Undergraduate Libraries   Overnight Libraries
   ------------------------ ------------------------- -------------------------
-  Ephemera|Social Media|Television/Film Studies
+  Ephemera                 Social Media              Television/Film Studies
   ------------------------ ------------------------- -------------------------
-  
-  
+
 
