@@ -2,7 +2,7 @@ Kelsey Hammer <khammer19@gmail.com> @kel\_hammer
 
 1^st^ year MSLS
 
-Kelsey holds a B.A. in English from UNC-Chapel Hill with a CRADL minor
+Kelsey holds a B.A. in English from UNC-Chapel Hill with a "CRADL" minor
 (Composition, Rhetoric, and Digital Literacy). She spent the past year
 selling athletic apparel and applying to graduate schools. During her
 undergraduate career, Kelsey had the pleasure of working for UNC-Chapel
