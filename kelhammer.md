@@ -18,7 +18,7 @@ House*. She also enjoys picking up new comics every Wednesday at Chapel
 Hill Comics. Her favorites include *Spider-Gwen*, *Paper Girls*,
 *Mockingbird*, and *Spider-Woman*.
 
-![](media/image1.jpg)
+![](profile_3.jpg)
 
 Research Interests
 
