@@ -22,10 +22,15 @@ Hill Comics. Her favorites include *Spider-Gwen*, *Paper Girls*,
 
 Research Interests
 
-  GIF Studies     |         Undergraduate Libraries   | Overnight Libraries
+
+  GIF Studies      |    Undergraduate Libraries   | Overnight Libraries
+  
   ------------------------ ------------------------- -------------------------
-  Ephemera    |             Social Media       |       Television/Film Studies
+  
+  Ephemera         |             Social Media     |       Television/Film Studies
+  
   ------------------------ ------------------------- -------------------------
+ 
   North Carolina History |  Twitter Platform      |    Design
   
 
