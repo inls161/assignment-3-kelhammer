@@ -50,7 +50,7 @@ pandoc -S -o kelhammer.odt kelhammer.md
    echo "We will now convert"
 
 # Convert markdown to PDF
-pandoc -S -o kelhammer.pdf+grid_tables kelhammer.md
+pandoc -S -o kelhammer.pdf kelhammer.md
 
 # Make the command line read "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF
 echo "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF"
